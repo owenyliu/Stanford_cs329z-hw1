@@ -1,0 +1,10 @@
+.env
+.lm_cache/
+runs/
+__pycache__/
+*.pyc
+.venv/
+emails.jsonl
+data/emails.jsonl.gz
+data/emails/
+data/docs/
